@@ -57,9 +57,20 @@ if numeros % 5 == 0 and numeros % 7 == 0:
     print('Estes numeros são divisives por 5 e 7 ')
 
 
-
-
-
 # 6- Verifique se um número é positivo e maior que 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 7-Verifique se um número é divisível por 3 ou 5.
