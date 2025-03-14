@@ -1,3 +1,4 @@
+#Meu exercicio
 #cadastrar-se
 print('Ola seja Bem Vindo.')
 nome = input("Digite o seu nome: ")
@@ -75,7 +76,7 @@ if escolha == 's' :
 else:
     print('Fim do programa \n VOLTE SEMPRE')
 
-
+#Feito pela professora
 # dados = {}
 
 
