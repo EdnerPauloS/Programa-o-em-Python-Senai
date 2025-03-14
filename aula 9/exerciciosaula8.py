@@ -61,7 +61,7 @@ import random
 # 6- Verifique se um número é positivo e maior que 10
 
 # numero = int(input('Digite um numero: '))
-# if numero % 2 == 0 and numero > 10 :
+# if numero > 0 and numero > 10 :
 #     print ('o numero ',numero,' é possitivo e maior que 10')
 # else:
 #     print('O numero ',numero,' não é positivo ou maior que 10  ')
