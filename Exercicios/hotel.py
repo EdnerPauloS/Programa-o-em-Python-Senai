@@ -1,3 +1,4 @@
+# Meu exercicio
 # Sistema de Reservas de Hotel:
 # Você foi contratado(a) para desenvolver uma parte do sistema de um hotel. O objetivo é criar um sistema que gerencie reservas de quartos e o pagamento das diárias
 # Cadastro de Cliente
@@ -36,6 +37,7 @@ if reserva == 's':
 else:
     print('Obrigado por visitar o Aconchego Hotel. Até a próxima!')
 
+#Feito pela professora
 
 # cliente_nome1 = input('Nome:  ')
 # cliente_idade1 = int(input('Idade: ')) 
