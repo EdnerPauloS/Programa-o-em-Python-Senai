@@ -37,36 +37,3 @@ if reserva == 's':
 else:
     print('Obrigado por visitar o Aconchego Hotel. Até a próxima!')
 
-#Feito pela professora
-
-# cliente_nome1 = input('Nome:  ')
-# cliente_idade1 = int(input('Idade: ')) 
-# cliente_nome2 = input('Nome:  ')
-# cliente_idade2 = int(input('Idade: ')) 
-
-
-# lista_quartos =  ['SIMPLES', 'DUPLO', 'LUXO']
-# lista_valores_quartos = [100.0,150.0,250.0]
-
-
-# print('escolha a partir do código do quarto 0 - 1 - 2  ', lista_quartos)
-
-
-# escolha_quarto1 = int(input('Escolha o quarto Cliente 1: '))
-# escolha_quarto2 = int(input('Escolha o quarto Cliente 2: ')) 
-
-
-# dias_quat1 = int(input(f'Digite os dias {cliente_nome1}'))
-# dias_quat2 = int(input(f'Digite os dias {cliente_nome2}'))
-
-
-# calc1 = lista_valores_quartos[escolha_quarto1] * dias_quat1
-# calc2 = lista_valores_quartos[escolha_quarto2] * dias_quat2
-
-
-# print('O Usuário ', cliente_nome1, 'escolheu o quarto',lista_quartos[escolha_quarto1])
-# print('O Usuário ', cliente_nome2, 'escolheu o quarto',lista_quartos[escolha_quarto2])
-
-
-# print('Total cliente',cliente_nome1, 'R$', calc1)
-# print('Total cliente',cliente_nome2, 'R$', calc2)
